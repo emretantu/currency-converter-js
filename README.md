@@ -43,7 +43,8 @@ Users should be able to:
 
 ## Screenshot
 
-<img src="./screenshots/currency-converter-screenshot-desktop.png" height="400px"><img src="./screenshots/currency-converter-screenshot-mobile.png" height="400px"><img src="./screenshots/currency-converter-screenshot-api-section.png" height="400px">
+<img src="./screenshots/currency-converter-screenshot-desktop.png" height="400px">
+<img src="./screenshots/currency-converter-screenshot-mobile.png" height="400px"><img src="./screenshots/currency-converter-screenshot-api-section.png" height="400px">
 
 ## Links
 
@@ -120,7 +121,7 @@ Kullanıcı şunları yapabilmelidir:
 ## Ekran Görüntüleri
 
 <img src="./screenshots/currency-converter-screenshot-desktop.png" height="400px">
-<img src="./screenshots/currency-converter-screenshot-mobile.png" height="400px"> <img src="./screenshots/currency-converter-screenshot-api-section.png" height="400px">
+<img src="./screenshots/currency-converter-screenshot-mobile.png" height="400px"><img src="./screenshots/currency-converter-screenshot-api-section.png" height="400px">
 
 ## Linkler
 
